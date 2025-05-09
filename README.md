@@ -69,6 +69,7 @@ HyprDisplay uses the `hyprctl monitors` command to detect your current monitor s
 
 ## Example
 
+<pre>
 Display Layout:
 ┌────────────────────────────────────┐
 │                                    │
@@ -94,6 +95,7 @@ Monitors:
 * DP-4: Position(3840,0) Size(2560×1440)
 
 ↑/k move up · ↓/j move down · ←/h move left · →/l move right · enter/space select monitor · a apply configuration · c copy to clipboard · q/ctrl+c quit
+</pre>
 
 ## Configuration Commands
 
